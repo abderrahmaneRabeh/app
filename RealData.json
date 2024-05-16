@@ -1,0 +1,460 @@
+{
+    "mesures": [
+        {
+            "nom": "NOx",
+            "unite": "mg/Nm³",
+            "valeurs": [
+                {
+                    "temps": "2024-04-17 12:10:00",
+                    "details": "NOx measures the concentration of nitrogen oxides in the air. High levels of NOx can contribute to air pollution and respiratory problems.",
+                    "valeur": 50,
+                    "30minute": {
+                        "MO": 15,
+                        "Pr": 20,
+                        "VI": 25,
+                        "VQ": 30,
+                        "TI": 35,
+                        "LI": 40,
+                        "LQ": 45
+                    },
+                    "1heure": {
+                        "MO": 10,
+                        "Pr": 18,
+                        "VI": 22,
+                        "VQ": 28,
+                        "TI": 32,
+                        "LI": 38,
+                        "LQ": 42
+                    },
+                    "24heure": {
+                        "MO": 8,
+                        "Pr": 16,
+                        "VI": 21,
+                        "VQ": 26,
+                        "TI": 31,
+                        "LI": 37,
+                        "LQ": 43
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "SO2",
+            "unite": "mg/Nm³",
+            "valeurs": [
+                {
+                    "temps": "2024-04-18 11:00:05",
+                    "details": "SO2 measures the concentration of sulfur dioxide in the air. It is produced by burning fossil fuels and can cause respiratory issues and acid rain.",
+                    "valeur": 20,
+                    "30minute": {
+                        "MO": 10,
+                        "Pr": 15,
+                        "VI": 18,
+                        "VQ": 22,
+                        "TI": 26,
+                        "LI": 30,
+                        "LQ": 35
+                    },
+                    "1heure": {
+                        "MO": 8,
+                        "Pr": 12,
+                        "VI": 15,
+                        "VQ": 18,
+                        "TI": 22,
+                        "LI": 25,
+                        "LQ": 30
+                    },
+                    "24heure": {
+                        "MO": 6,
+                        "Pr": 10,
+                        "VI": 12,
+                        "VQ": 15,
+                        "TI": 18,
+                        "LI": 22,
+                        "LQ": 25
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "CO",
+            "unite": "mg/Nm³",
+            "valeurs": [
+                {
+                    "temps": "2024-04-19 18:30:22",
+                    "details": " CO measures the concentration of carbon monoxide in the air. It is a poisonous gas produced by incomplete combustion of fossil fuels.",
+                    "valeur": 10,
+                    "30minute": {
+                        "MO": 5,
+                        "Pr": 8,
+                        "VI": 10,
+                        "VQ": 12,
+                        "TI": 15,
+                        "LI": 18,
+                        "LQ": 20
+                    },
+                    "1heure": {
+                        "MO": 4,
+                        "Pr": 6,
+                        "VI": 8,
+                        "VQ": 10,
+                        "TI": 12,
+                        "LI": 15,
+                        "LQ": 18
+                    },
+                    "24heure": {
+                        "MO": 3,
+                        "Pr": 5,
+                        "VI": 6,
+                        "VQ": 8,
+                        "TI": 10,
+                        "LI": 12,
+                        "LQ": 15
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "O2",
+            "unite": "%",
+            "valeurs": [
+                {
+                    "temps": "2024-04-19 18:45:22",
+                    "details": ": O2 measures the concentration of oxygen in the air. It is essential for human and animal respiration and for combustion processes.",
+                    "valeur": 15,
+                    "30minute": {
+                        "MO": 8,
+                        "Pr": 10,
+                        "VI": 12,
+                        "VQ": 14,
+                        "TI": 16,
+                        "LI": 18,
+                        "LQ": 20
+                    },
+                    "1heure": {
+                        "MO": 7,
+                        "Pr": 9,
+                        "VI": 11,
+                        "VQ": 13,
+                        "TI": 15,
+                        "LI": 17,
+                        "LQ": 19
+                    },
+                    "24heure": {
+                        "MO": 6,
+                        "Pr": 8,
+                        "VI": 10,
+                        "VQ": 12,
+                        "TI": 14,
+                        "LI": 16,
+                        "LQ": 18
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "Poussieres four",
+            "unite": "mg/Nm³",
+            "valeurs": [
+                {
+                    "temps": "2024-04-20 07:20:11",
+                    "details": "Measures the concentration of particulate matter emitted from a furnace or industrial process.",
+                    "valeur": 25,
+                    "30minute": {
+                        "MO": 12,
+                        "Pr": 15,
+                        "VI": 18,
+                        "VQ": 20,
+                        "TI": 22,
+                        "LI": 25,
+                        "LQ": 28
+                    },
+                    "1heure": {
+                        "MO": 10,
+                        "Pr": 12,
+                        "VI": 15,
+                        "VQ": 17,
+                        "TI": 20,
+                        "LI": 22,
+                        "LQ": 24
+                    },
+                    "24heure": {
+                        "MO": 8,
+                        "Pr": 10,
+                        "VI": 12,
+                        "VQ": 14,
+                        "TI": 16,
+                        "LI": 18,
+                        "LQ": 20
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "déba four",
+            "unite": "Nm3/h",
+            "valeurs": [
+                {
+                    "temps": "2024-04-20 11:27:05",
+                    "details": "Measures the flow rate of exhaust gases emitted from a furnace or industrial process.",
+                    "valeur": 30,
+                    "30minute": {
+                        "MO": 18,
+                        "Pr": 20,
+                        "VI": 22,
+                        "VQ": 24,
+                        "TI": 26,
+                        "LI": 28,
+                        "LQ": 30
+                    },
+                    "1heure": {
+                        "MO": 15,
+                        "Pr": 17,
+                        "VI": 19,
+                        "VQ": 21,
+                        "TI": 23,
+                        "LI": 25,
+                        "LQ": 27
+                    },
+                    "24heure": {
+                        "MO": 12,
+                        "Pr": 14,
+                        "VI": 16,
+                        "VQ": 18,
+                        "TI": 20,
+                        "LI": 22,
+                        "LQ": 24
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "Poussieres Refoidisseur",
+            "unite": "mg/Nm³",
+            "valeurs": [
+                {
+                    "temps": "2024-04-21 14:59:33",
+                    "details": "Measures the concentration of particulate matter emitted from a cooler or cooling process.",
+                    "valeur": 35,
+                    "30minute": {
+                        "MO": 18,
+                        "Pr": 20,
+                        "VI": 22,
+                        "VQ": 24,
+                        "TI": 26,
+                        "LI": 28,
+                        "LQ": 30
+                    },
+                    "1heure": {
+                        "MO": 15,
+                        "Pr": 17,
+                        "VI": 19,
+                        "VQ": 21,
+                        "TI": 23,
+                        "LI": 25,
+                        "LQ": 27
+                    },
+                    "24heure": {
+                        "MO": 12,
+                        "Pr": 14,
+                        "VI": 16,
+                        "VQ": 18,
+                        "TI": 20,
+                        "LI": 22,
+                        "LQ": 24
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "déba Refoidisseur",
+            "unite": "Nm3/h",
+            "valeurs": [
+                {
+                    "temps": "2024-04-21 17:08:10",
+                    "details": " Measures the flow rate of exhaust gases emitted from a cooler or cooling process.",
+                    "valeur": 40,
+                    "30minute": {
+                        "MO": 20,
+                        "Pr": 22,
+                        "VI": 24,
+                        "VQ": 26,
+                        "TI": 28,
+                        "LI": 30,
+                        "LQ": 32
+                    },
+                    "1heure": {
+                        "MO": 18,
+                        "Pr": 20,
+                        "VI": 22,
+                        "VQ": 24,
+                        "TI": 26,
+                        "LI": 28,
+                        "LQ": 30
+                    },
+                    "24heure": {
+                        "MO": 15,
+                        "Pr": 17,
+                        "VI": 19,
+                        "VQ": 21,
+                        "TI": 23,
+                        "LI": 25,
+                        "LQ": 27
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "températeur Refoidisseur",
+            "unite": "°C",
+            "valeurs": [
+                {
+                    "temps": "2024-04-22 12:04:23",
+                    "details": " Measures the temperature of gases emitted from a cooler or cooling process.",
+                    "valeur": 45,
+                    "30minute": {
+                        "MO": 25,
+                        "Pr": 28,
+                        "VI": 30,
+                        "VQ": 32,
+                        "TI": 35,
+                        "LI": 38,
+                        "LQ": 40
+                    },
+                    "1heure": {
+                        "MO": 22,
+                        "Pr": 25,
+                        "VI": 28,
+                        "VQ": 30,
+                        "TI": 32,
+                        "LI": 35,
+                        "LQ": 38
+                    },
+                    "24heure": {
+                        "MO": 20,
+                        "Pr": 22,
+                        "VI": 25,
+                        "VQ": 28,
+                        "TI": 30,
+                        "LI": 32,
+                        "LQ": 35
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "COT",
+            "unite": "mg/Nm³",
+            "valeurs": [
+                {
+                    "temps": "2024-04-22 13:07:53",
+                    "details": "COT measures the concentration of total organic carbon in the air. It is a measure of organic pollutants present in the atmosphere.",
+                    "valeur": 50,
+                    "30minute": {
+                        "MO": 30,
+                        "Pr": 32,
+                        "VI": 35,
+                        "VQ": 38,
+                        "TI": 40,
+                        "LI": 42,
+                        "LQ": 45
+                    },
+                    "1heure": {
+                        "MO": 28,
+                        "Pr": 30,
+                        "VI": 32,
+                        "VQ": 35,
+                        "TI": 38,
+                        "LI": 40,
+                        "LQ": 42
+                    },
+                    "24heure": {
+                        "MO": 25,
+                        "Pr": 28,
+                        "VI": 30,
+                        "VQ": 32,
+                        "TI": 35,
+                        "LI": 38,
+                        "LQ": 40
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "HF",
+            "unite": "mg/Nm³",
+            "valeurs": [
+                {
+                    "temps": "2024-04-22 22:19:50",
+                    "details": "HF measures the concentration of hydrogen fluoride in the air. It is a corrosive gas produced by industrial processes and can cause respiratory and skin irritation.",
+                    "valeur": 55,
+                    "30minute": {
+                        "MO": 35,
+                        "Pr": 38,
+                        "VI": 40,
+                        "VQ": 42,
+                        "TI": 45,
+                        "LI": 48,
+                        "LQ": 50
+                    },
+                    "1heure": {
+                        "MO": 32,
+                        "Pr": 35,
+                        "VI": 38,
+                        "VQ": 40,
+                        "TI": 42,
+                        "LI": 45,
+                        "LQ": 48
+                    },
+                    "24heure": {
+                        "MO": 30,
+                        "Pr": 32,
+                        "VI": 35,
+                        "VQ": 38,
+                        "TI": 40,
+                        "LI": 42,
+                        "LQ": 45
+                    }
+                }
+            ]
+        },
+        {
+            "nom": "H2O",
+            "unite": "%",
+            "valeurs": [
+                {
+                    "temps": "2024-04-22 20:35:20",
+                    "details": " H2O measures the humidity or moisture content of the air. It is an important factor in determining air quality and can affect human comfort and health.",
+                    "valeur": 60,
+                    "30minute": {
+                        "MO": 40,
+                        "Pr": 42,
+                        "VI": 45,
+                        "VQ": 48,
+                        "TI": 50,
+                        "LI": 52,
+                        "LQ": 55
+                    },
+                    "1heure": {
+                        "MO": 38,
+                        "Pr": 40,
+                        "VI": 42,
+                        "VQ": 45,
+                        "TI": 48,
+                        "LI": 50,
+                        "LQ": 52
+                    },
+                    "24heure": {
+                        "MO": 35,
+                        "Pr": 38,
+                        "VI": 40,
+                        "VQ": 42,
+                        "TI": 45,
+                        "LI": 48,
+                        "LQ": 50
+                    }
+                }
+            ]
+        }
+    ]
+}
